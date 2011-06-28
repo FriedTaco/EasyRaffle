@@ -1,0 +1,7 @@
+name: EasyRaffle
+main: com.FriedTaco.taco.EasyRaffle.EasyRaffle
+version: 1.1
+commands:
+    raffle:
+        description: Host a raffle!
+        usage: /raffle [item] [amount]
